@@ -65,10 +65,10 @@ javac -version
 1. Download or clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Bank-Management-System.git
+   git clone https://github.com/Shivnarine-Chaitram/Bank-Management-System.git
    ```
 
-   Replace `YOUR-USERNAME` with the actual GitHub username. Alternatively, select **Code → Download ZIP** on the repository page and extract the files.
+   select **Code → Download ZIP** on the repository page and extract the files.
 
 2. Open a terminal in the folder containing the three `.java` files.
 
